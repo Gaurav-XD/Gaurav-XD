@@ -1,5 +1,5 @@
 ## 👋 Hi, 
-I’m Gaurav Sharma.I’m interested in Data Science/Analytics 🙃. I enjoy learning Data Science, Machine Learning, Deep Learning, Natural Language Processing and Artificial Intelligence 📚😇. 
+I’m Gaurav Sharma.I’m interested in Data Science/Analytics and Networkings 🙃. I enjoy learning Data Science, Machine Learning, Deep Learning, Natural Language Processing, Artificial Intelligence and Networkings 📚😇. 
 
 📫 How to reach me 
 >> Email : gs9812245750.gs@gmail.com  
