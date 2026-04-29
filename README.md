@@ -1,18 +1,49 @@
-## 👋 Hi, 
-I’m Gaurav Sharma.I’m interested in Data Science/Analytics and Networkings 🙃. I enjoy learning Data Science, Machine Learning, Deep Learning, Natural Language Processing, Artificial Intelligence and Networkings 📚😇. 
+## 👋 Hi, I'm Gaurav Sharma
 
-📫 How to reach me 
->> Email : gs9812245750.gs@gmail.com  
->> Ph. No. : +91-8084733892
+I build data-driven and AI-powered systems that help businesses automate workflows, analyze data, and make better decisions.
 
+---
 
-### Skills :
-   <img src="https://user-images.githubusercontent.com/85676242/175356329-75cfd683-1301-4b50-9d55-cfa815cff3a5.png" width="50">    <img src="https://user-images.githubusercontent.com/85676242/175357401-cb77a8ed-72b0-4035-97e6-8597bf044a8c.png" width="50"> <img src="https://user-images.githubusercontent.com/85676242/175357628-96d67822-2b67-4a1f-adfd-79b45cb4f823.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/85676242/175358422-1374aeea-4298-45f6-a541-158d5df9bab9.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/85676242/175359837-b2cef8b0-60c0-4fc2-a071-26c059a5ae59.png" width="50" height="50"> <img src="https://devtools.in/wp-content/uploads/2022/10/alteryx-with-text.png" width="50" height="50">
+## 🚀 What I Do
+- Build backend APIs and data-driven applications  
+- Work with data analysis and business insights  
+- Develop automation systems using Python & SQL  
+- Create AI-powered tools for real-world use cases  
 
+---
 
+## 🧩 Featured Projects
 
-<!--- 
-Gaurav-XD/Gaurav-XD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📊 Pricing Optimization Engine
+Built a system that analyzes demand vs price relationship and recommends optimal pricing to maximize revenue using data modeling and simulation.  
+**Tech:** Python, FastAPI, Pandas, SQL  
 
+---
+
+### 🤖 AI Business Analyst
+Developed a system that converts natural language questions into SQL queries and generates business insights automatically.  
+**Tech:** Python, FastAPI, SQLite, Streamlit  
+
+---
+
+### ⚙️ Data Automation Tool
+Automated repetitive data workflows using Python and SQL to improve efficiency and reduce manual effort.
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend:** Python, FastAPI, REST APIs  
+**Data & Analytics:** SQL, Pandas, Power BI, Excel  
+**AI & Automation:** Machine Learning, Data Pipelines, Automation  
+**Frontend:** HTML, CSS, Flutter  
+
+---
+
+## 📫 Contact
+- Email: gs9812245750.gs@gmail.com  
+- GitHub: https://github.com/Gaurav-XD  
+
+---
+
+⭐ I focus on building real-world systems that combine data, automation, and backend development.
