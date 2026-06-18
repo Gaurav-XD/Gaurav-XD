@@ -15,6 +15,8 @@ I build data-driven and AI-powered systems that help businesses automate workflo
 ## Featured Projects
 
 ### FlowCRM - Multi-Tenant CRM Platform
+![FlowCRM preview](./assets/projects/flowcrm.svg)
+
 Production-grade CRM platform featuring lead management, deal pipelines, team collaboration, analytics dashboards, audit logging, role-based access control, and multi-tenant architecture.
 
 **Tech:** Next.js, Node.js, PostgreSQL, Prisma, TypeScript
@@ -34,6 +36,8 @@ Production-grade CRM platform featuring lead management, deal pipelines, team co
 ---
 
 ### SupportGPT - AI Customer Support Platform
+![SupportGPT preview](./assets/projects/supportgpt.svg)
+
 AI-powered customer support platform featuring document ingestion, RAG-based knowledge retrieval, vector search, conversational AI, ticket management, real-time messaging, and analytics dashboards.
 
 **Tech:** Next.js, Node.js, PostgreSQL, OpenAI API, Vector Search
@@ -53,6 +57,8 @@ AI-powered customer support platform featuring document ingestion, RAG-based kno
 ---
 
 ### TalentFlow ATS - Recruitment & Hiring Platform
+![TalentFlow ATS preview](./assets/projects/talentflow-ats.svg)
+
 Full-stack applicant tracking system supporting job management, candidate pipelines, interview scheduling, resume parsing, hiring analytics, and collaborative recruitment workflows.
 
 **Tech:** Next.js, Node.js, PostgreSQL, Prisma, TypeScript

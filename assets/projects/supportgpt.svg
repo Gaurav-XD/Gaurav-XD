@@ -1,0 +1,53 @@
+<svg width="1200" height="640" viewBox="0 0 1200 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#140B1F"/>
+      <stop offset="1" stop-color="#25103A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="120" x2="520" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A855F7"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="700" y1="120" x2="1090" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1B112C"/>
+      <stop offset="1" stop-color="#0E1321"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="640" rx="36" fill="url(#bg)"/>
+  <circle cx="1030" cy="120" r="160" fill="#A855F7" fill-opacity="0.18"/>
+  <circle cx="190" cy="540" r="170" fill="#22D3EE" fill-opacity="0.10"/>
+  <rect x="64" y="64" width="1072" height="512" rx="28" stroke="#3B2A58" stroke-width="2" fill="#0C1020" fill-opacity="0.86"/>
+  <rect x="92" y="94" width="330" height="450" rx="22" fill="#120E1E" stroke="#402A68"/>
+  <rect x="446" y="94" width="664" height="450" rx="22" fill="url(#panel)" stroke="#402A68"/>
+  <text x="124" y="150" fill="#C4B5FD" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">SUPPORTGPT</text>
+  <text x="124" y="198" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="800">AI Support Platform</text>
+  <text x="124" y="236" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="18">RAG, vector search, tickets, analytics.</text>
+  <rect x="124" y="272" width="132" height="34" rx="17" fill="#1F1430" stroke="#A855F7"/>
+  <text x="145" y="294" fill="#F5F3FF" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">RAG</text>
+  <rect x="268" y="272" width="102" height="34" rx="17" fill="#1F1430" stroke="#22D3EE"/>
+  <text x="285" y="294" fill="#ECFEFF" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">AI Chat</text>
+  <rect x="124" y="330" width="256" height="98" rx="18" fill="#100D1B" stroke="#392355"/>
+  <text x="146" y="364" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Resolved today</text>
+  <text x="146" y="404" fill="#C084FC" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800">92%</text>
+  <rect x="124" y="446" width="118" height="74" rx="18" fill="#100D1B" stroke="#392355"/>
+  <rect x="262" y="446" width="118" height="74" rx="18" fill="#100D1B" stroke="#392355"/>
+  <text x="146" y="478" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="13">Open tickets</text>
+  <text x="146" y="506" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700">18</text>
+  <text x="284" y="478" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="13">Avg reply</text>
+  <text x="284" y="506" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700">42s</text>
+  <text x="470" y="150" fill="#F5F3FF" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">Assistant Conversation</text>
+  <rect x="470" y="182" width="590" height="286" rx="24" fill="#101427" stroke="#3E2B61"/>
+  <rect x="500" y="214" width="246" height="54" rx="18" fill="#1F1140"/>
+  <text x="522" y="248" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="15">How do I reset my password?</text>
+  <rect x="748" y="274" width="276" height="74" rx="18" fill="#14263F"/>
+  <text x="770" y="306" fill="#E2E8F0" font-family="Inter, Arial, sans-serif" font-size="15">Check the knowledge base, then create a</text>
+  <text x="770" y="328" fill="#E2E8F0" font-family="Inter, Arial, sans-serif" font-size="15">ticket if the issue persists.</text>
+  <rect x="500" y="372" width="206" height="54" rx="18" fill="#1F1140"/>
+  <text x="522" y="406" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="15">Please summarize this doc.</text>
+  <rect x="470" y="490" width="198" height="42" rx="21" fill="#1F1430" stroke="#A855F7"/>
+  <text x="495" y="517" fill="#F5F3FF" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">Vector search</text>
+  <rect x="682" y="490" width="188" height="42" rx="21" fill="#132C3B" stroke="#22D3EE"/>
+  <text x="708" y="517" fill="#ECFEFF" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">Ticket routing</text>
+  <rect x="886" y="490" width="174" height="42" rx="21" fill="#241332" stroke="#C084FC"/>
+  <text x="914" y="517" fill="#F5F3FF" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">Analytics</text>
+</svg>
