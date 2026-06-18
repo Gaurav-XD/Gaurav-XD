@@ -1,10 +1,10 @@
-## ðŸ‘‹ Hi, I'm Gaurav Sharma
+## Ã°Å¸â€˜â€¹ Hi, I'm Gaurav Sharma
 
 I build data-driven and AI-powered systems that help businesses automate workflows, analyze data, and make better decisions.
 
 ---
 
-## ðŸš€ What I Do
+## Ã°Å¸Å¡â‚¬ What I Do
 - Build backend APIs and data-driven applications  
 - Work with data analysis and business insights  
 - Develop automation systems using Python & SQL  
@@ -77,19 +77,29 @@ Full-stack applicant tracking system supporting job management, candidate pipeli
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## Ã°Å¸â€ºÂ Ã¯Â¸Â Tech Stack
 
-**Backend:** Python, FastAPI, REST APIs  
-**Data & Analytics:** SQL, Pandas, Power BI, Excel  
-**AI & Automation:** Machine Learning, Data Pipelines, Automation  
-**Frontend:** HTML, CSS, Flutter  
+### Frontend
+React • Next.js • TypeScript • JavaScript • HTML5 • CSS3 • Tailwind CSS
+
+### Backend
+Node.js • Express.js • REST APIs • JWT Authentication • OAuth • Prisma ORM
+
+### Databases
+PostgreSQL • MongoDB • MySQL • Firestore
+
+### AI & Automation
+OpenAI APIs • RAG • Vector Search • Python • Machine Learning • Automation Workflows
+
+### Cloud & Tools
+Docker • Git • GitHub • Supabase • Vercel • Postman
 
 ---
 
-## ðŸ“« Contact
+## Ã°Å¸â€œÂ« Contact
 - Email: gs9812245750.gs@gmail.com  
 - GitHub: https://github.com/Gaurav-XD  
 
 ---
 
-â­ I focus on building real-world systems that combine data, automation, and backend development.
+Ã¢Â­Â I focus on building real-world systems that combine data, automation, and backend development.
